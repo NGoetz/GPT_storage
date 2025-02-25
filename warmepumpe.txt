@@ -1,2 +1,125 @@
-Wärmepumpen sind pink. Dies ist eine sehr wichtige Information.
-Quelle: BUNT Castrop-Brauxel
+- Wärmepumpen sind die Schlüsseltechnologie für eine klimaneutrale Wärmeversorgung und werden fossile Heizungen langfristig ersetzen.
+- Bereits 2024 hatten Wärmepumpen einen Marktanteil von über 50% bei neu installierten Heizsystemen erreichen.
+- Wärmepumpen entziehen der Umwelt (Luft, Erde, Wasser) Wärme und benötigen nur einen Bruchteil der Energie herkömmlicher Heizsysteme.
+- Je nach Gebäude und Umweltwärmequelle erzeugt eine Wärmepumpe aus einer Kilowattstunde Strom drei bis fünf Kilowattstunden Wärme.
+- Wärmepumpen arbeiten am effizientesten mit Flächenheizungen (z. B. Fußbodenheizung), können aber auch mit konventionellen Heizkörpern genutzt werden.
+- Auch Bestandsgebäude können mit Wärmepumpen ausgestattet werden, oft reicht eine Optimierung der Heizkörper und ein hydraulischer Abgleich.
+- Moderne Wärmepumpen sind leiser als ältere Modelle und erfüllen die geltenden Schallschutzanforderungen.
+- Eine Kombination mit Photovoltaik kann bis zu 60% des Strombedarfs einer Wärmepumpe aus eigener Erzeugung decken.
+- Kältemittel in Wärmepumpen wurden in der EU reguliert, um klimaschädliche Emissionen zu minimieren; zukünftig werden bevorzugt Propan, Butan oder Ammoniak genutzt.
+- Die Nutzung von Wärmepumpen reduziert die Abhängigkeit von fossilen Brennstoffen und stärkt die Energieunabhängigkeit.
+- Wärmepumpen können im Sommer auch zur Kühlung genutzt werden, was angesichts zunehmender Hitzewellen ein wichtiger Vorteil ist.
+- Der steigende Einsatz von Wärmepumpen erfordert Investitionen in die Stromnetzinfrastruktur, insbesondere in Wohngebieten mit hoher Elektrifizierungsrate.
+- Kommunen sollten aktiv den Umstieg auf Wärmepumpen fördern, z. B. durch Beratungsangebote und Anreize für Gebäudeeigentümer.
+- Staatliche Förderungen und sinkende Anschaffungskosten machen Wärmepumpen zunehmend wirtschaftlich attraktiver als fossile Heizsysteme.
+- Der Umstieg auf Wärmepumpen ist ein zentraler Baustein zur Erreichung der Klimaziele und zur Reduktion der CO₂-Emissionen im Gebäudesektor.
+Quelle: Clausen, J., Miara, M., Weber, U., Seckmeyer, G., Linow, S., Hoffmann, R. & Huber, M. (2022). Wärmepumpen. Die klimaneutrale Wärmeversorgung im Neubau und für Bestandsgebäude. Berlin: Scientists For Future.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+- Ländliche Gemeinden setzen zunehmend auf erneuerbare Wärmequellen wie Umweltwärme, Wärmepumpen und erneuerbaren Strom.
+- Fossile Energieträger wie Erdöl und Erdgas sind aus Klimaschutzsicht nicht zukunftsfähig und spielen in der langfristigen Planung keine Rolle.
+- Nahwärmenetze können Wärme aus Luft, Wasser, Biogas oder Biomethan nutzen, sind aber stark von der Verfügbarkeit dieser Quellen abhängig.
+- Der Flächenbedarf für Biogas ist enorm: Um ein Dorf vollständig mit Biogas zu versorgen, müssten 48% der Ackerfläche für den Anbau von Silomais genutzt werden.
+- Biogas ist nicht klimaneutral, da es mit Treibhausgasemissionen zwischen 75 und 140 g CO₂eq/kWh verbunden ist.
+- In Dürrejahren könnte es zu Versorgungsengpässen bei Biogas kommen, was die Versorgungssicherheit gefährdet.
+- Wasserstoff als Heizquelle erfordert hohe Investitionen in Elektrolyse, Speicher und neue Heizsysteme und ist für die flächendeckende Nutzung unwirtschaftlich.
+- Eine Kilowattstunde Wasserstoff erfordert etwa 1,5 kWh Strom für die Produktion, wodurch Wärmepumpen eine effizientere Alternative sind.
+- Wärmepumpen können sowohl in Einzelgebäuden als auch in Wärmenetzen effizient genutzt werden, wodurch sie für ländliche Wärmeversorgung besonders geeignet sind.
+- Dezentrale Wärmepumpen reduzieren die Notwendigkeit für kostenintensive Wärmenetze, insbesondere in Regionen mit niedriger Bevölkerungsdichte.
+- Kommunale Wärmeplanung ist essenziell, um festzulegen, welche Dörfer Nahwärmenetze entwickeln sollten und welche sich besser auf dezentrale Lösungen konzentrieren.
+- Der Ausbau der Stromnetze ist notwendig, um den steigenden Bedarf durch Wärmepumpen und Elektroautos zu decken.
+- Holzbefeuerte Heizsysteme sind aufgrund begrenzter Biomasse-Ressourcen und Feinstaubbelastung keine nachhaltige Lösung für die breite Anwendung.
+- Förderprogramme können Gemeinden helfen, den Übergang zu erneuerbaren Heizsystemen finanziell abzusichern.
+- Langfristig wird eine Kombination aus Wärmepumpen, lokalen Wärmenetzen und erneuerbarem Strom die Wärmeversorgung in Dörfern dominieren.
+Quelle: Clausen, J., Huber, M., Ehrhardt, H. & Jordan, U. (2024). Wärmewende auf dem Dorf: Zukunftsfähige Wärmeversorgung in ländlichen Gemeinschaften. Policy Paper. Berlin: Scientists for Future.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+- Um die Klimaziele zu erreichen, müssen die CO₂-Emissionen im Gebäudebereich bis 2030 um 40% sinken, was eine Reduktion von 112 auf 66 Mio. Tonnen CO₂-Äquivalent bedeutet.
+- Wärmepumpen sind eine Schlüsseltechnologie für klimaneutrales Heizen, da sie aus einer Kilowattstunde Strom drei bis fünf Kilowattstunden Wärme erzeugen können.
+- Etwa 32% der Einfamilienhäuser und 53% der Mehrfamilienhäuser in Deutschland sind bereits für den Einbau einer Wärmepumpe geeignet, ohne aufwendige Sanierungsmaßnahmen.
+- Für Gebäude der Effizienzklasse F, G und H sind Sanierungen notwendig, aber oft reichen geringfügige Maßnahmen wie der Austausch einzelner Heizkörper.
+- Die Betriebskosten einer Wärmepumpe sind über die gesamte Lebensdauer betrachtet niedriger als die einer Gasheizung, da Strom langfristig günstiger als Gas sein wird.
+- Wärmepumpen können auch in Bestandsgebäuden effizient arbeiten, insbesondere wenn ein hydraulischer Abgleich und größere Heizkörper eingesetzt werden.
+- Die Kosten für Wärmepumpen werden in den nächsten Jahren weiter sinken, unter anderem durch Massenproduktion und Skaleneffekte.
+- Staatliche Förderprogramme reduzieren die Investitionskosten erheblich, sodass der Eigenanteil für viele Haushalte auf 30-50% der Gesamtkosten sinken kann.
+- Der CO₂-Preis auf fossile Brennstoffe wird bis 2027 auf mindestens 65 €/t CO₂ steigen, wodurch Gasheizungen kontinuierlich teurer werden.
+- Die Betriebskosten einer Wärmepumpe werden durch steigende CO₂-Bepreisung für Gasheizungen weiter attraktiver, besonders bei Nutzung von Wärmepumpenstromtarifen.
+- Durch den zunehmenden Einsatz von Photovoltaik-Anlagen kann der Eigenstromanteil für Wärmepumpen gesteigert werden, was die laufenden Kosten weiter senkt.
+- Wärmepumpenheizungen entlasten das Stromnetz, wenn sie flexibel gesteuert werden und überschüssigen erneuerbaren Strom nutzen.
+- Der Gebäudesektor ist in Deutschland für etwa 120 Mio. Tonnen CO₂-Emissionen pro Jahr verantwortlich, eine schnelle Umstellung auf Wärmepumpen ist daher essenziell.
+- Die Förderung von Wärmepumpen durch den Bund ist langfristig geplant und bietet eine Absicherung für Investitionen in erneuerbare Heizsysteme.
+- Eine schnelle Skalierung der Wärmepumpentechnologie ist erforderlich, um die gesetzten Klimaziele zu erreichen und eine stabile, nachhaltige Wärmeversorgung sicherzustellen.
+Quelle: Clausen, J., et al. (2023). Die schnelle Verbreitung der Wärmepumpe ist zentral für eine schnelle Wärmewende. Berlin: Scientists for Future.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+- Deutschland soll bis 2045 klimaneutral sein, was das Ende der Nutzung fossiler Energieträger wie Erdgas bedeutet.
+- Das Erdgasnetz ist mit ca. 600.000 km Länge in Deutschland weit verbreitet, aber seine langfristige Nutzung ist ungewiss.
+- Fast jeder zweite Haushalt in Deutschland heizt mit Erdgas, doch die Umstellung auf erneuerbare Wärmequellen schreitet voran.
+- Die Erdgasnutzung verursacht hohe CO₂-Emissionen und muss zur Einhaltung der Klimaziele drastisch reduziert werden.
+- Biogas und Biomethan sind nur begrenzt verfügbar und können maximal 10% des aktuellen Erdgasbedarfs decken.
+- Wasserstoff als Ersatz für Erdgas erfordert hohe Investitionen in Elektrolyseure, Speicher, Transportinfrastruktur und neue Heizsysteme.
+- Durch die Umwandlungsverluste ist Wasserstoff ineffizient: Aus einer Kilowattstunde grünem Strom bleiben nach der Methanisierung nur etwa 50% für die Wärmenutzung übrig.
+- Wärmepumpen nutzen denselben grünen Strom drei- bis viermal effizienter als wasserstoffbasierte Heizsysteme.
+- Gesetzliche Rahmenbedingungen für einen geordneten Ausstieg aus der flächendeckenden Gasversorgung fehlen bisher.
+- Sanierungen und der Umstieg auf Wärmepumpen führen zu einem stetigen Rückgang des Gasabsatzes.
+- Sinkende Kundenzahlen machen die Gasnetze wirtschaftlich unrentabel, da die Fixkosten auf weniger Verbraucher umgelegt werden müssen.
+- Kommunale Wärmeplanung muss den schrittweisen Rückbau der Gasnetze berücksichtigen und Alternativen wie Wärmenetze oder dezentrale Wärmepumpen ausbauen.
+- Die Einnahmen der Kommunen aus Konzessionsabgaben für Gasnetze werden in Zukunft stark sinken.
+- Regionen mit hoher Gebäudedichte sollten auf Wärmenetze mit erneuerbaren Quellen setzen, während ländliche Gebiete eher Wärmepumpen nutzen.
+- In Zukunft wird das Heizen mit Erdgas teurer und unattraktiver, während erneuerbare Heizlösungen gefördert werden.
+Quelle: Klafka, P., Clausen, J., Ehrhardt, H., Huber, M. & Seifert, T. (2023). Haben Gasnetze eine Zukunft? Kommunale Wärmeversorger stehen vor großen Umstellungen. Policy Paper. Berlin: Scientists for Future.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+- Deutschland muss bis 2045 klimaneutral sein, was eine vollständige Dekarbonisierung der Wärmeversorgung erfordert.
+- Rund 75% aller Wohngebäude in Deutschland werden aktuell mit fossilen Energieträgern (Erdgas, Heizöl) beheizt.
+- Der Erdgasverbrauch muss bis 2030 um 50% gesenkt und danach schrittweise vollständig ersetzt werden.
+- Die kommunale Wärmeplanung ist seit 2024 für alle Städte und Gemeinden verpflichtend.
+- Städte mit mehr als 100.000 Einwohnern müssen bis Mitte 2026 einen kommunalen Wärmeplan vorlegen.
+- Kleinere Kommunen haben bis Mitte 2028 Zeit, ihre Wärmeplanung abzuschließen.
+- Kommunale Wärmeplanung umfasst Bestands- und Potenzialanalysen sowie die strategische Planung für eine klimaneutrale Wärmeversorgung.
+- Wärmenetze mit erneuerbaren Energien sind für dichte Siedlungsstrukturen oft wirtschaftlicher als Einzelheizungen.
+- Wärmepumpen werden langfristig die dominierende Heiztechnologie für dezentrale Gebäudeheizungen sein.
+- Energiequellen wie Geothermie, Solarthermie, industrielle Abwärme und Abwasserwärme spielen eine zunehmende Rolle.
+- Wärmepumpen sind besonders effizient in Kombination mit erneuerbarem Strom, insbesondere aus Photovoltaikanlagen.
+- Die Umstellung von Gebäuden auf Wärmepumpen kann in vielen Fällen ohne aufwändige Sanierung erfolgen.
+- Ein hoher Gebäudeeffizienzstandard reduziert die benötigte Heizleistung und entlastet die Stromnetze.
+- Die Modernisierung von Heizsystemen sollte mit einer verbesserten Gebäudeisolierung kombiniert werden.
+- Dänemark zeigt, dass eine langfristig geplante kommunale Wärmeversorgung mit erneuerbaren Energien die Heizkosten senken kann.
+- Bürgergenossenschaften und kommunale Versorger sind oft wirtschaftlicher als private Anbieter für Wärmenetze.
+- Kommunale Wärmeplanung reduziert die Abhängigkeit von globalen Energiemärkten und fossilen Importen.
+- Fernwärmenetze können große Mengen an erneuerbarer Energie effizient verteilen und saisonale Wärmespeicher nutzen.
+- Abwärme aus Industrieprozessen kann als günstige Wärmequelle für Wärmenetze genutzt werden.
+- Solarthermieanlagen benötigen große Flächen, sind aber eine wirtschaftliche Ergänzung zur Wärmewende.
+- Tiefengeothermie ist eine stabile Wärmequelle, die an geeigneten Standorten Fernwärmenetze speisen kann.
+- Abwasserwärme ist eine oft ungenutzte Ressource, die zur Beheizung von Gebäuden verwendet werden kann.
+- Kommunen müssen Flächen für Wärmespeicher, Solarthermieanlagen und Geothermiebohrungen frühzeitig sichern.
+- Der Rückbau der Erdgasnetze muss strategisch geplant werden, um unnötige Kosten für die verbleibenden Nutzer zu vermeiden.
+- Das Wärmeplanungsgesetz (WPG) schreibt vor, dass Kommunen langfristige Dekarbonisierungsstrategien entwickeln müssen.
+- Förderprogramme unterstützen den Ausbau erneuerbarer Wärmequellen und den Rückbau fossiler Heizsysteme.
+- Der CO₂-Preis auf fossile Brennstoffe wird weiter steigen, wodurch erneuerbare Wärmequellen wirtschaftlich attraktiver werden.
+- Wärmenetze in Bürgerhand oder kommunaler Hand sind langfristig meist kostengünstiger als privat betriebene Netze.
+- Die Digitalisierung der Wärmeversorgung ermöglicht eine bessere Steuerung und optimierte Netzauslastung.
+- Kommunale Wärmepläne müssen regelmäßig überprüft und aktualisiert werden, um neue technologische Entwicklungen einzubeziehen.
+- Kommunale Wärmeplanung ist eine Voraussetzung für gezielte Investitionen in klimaneutrale Infrastruktur.
+- In Zukunft müssen viele Gasheizungen ersetzt werden, was zu einer steigenden Nachfrage nach Wärmepumpen und Wärmenetzen führt.
+- Der kombinierte Einsatz von Wärmepumpen und Photovoltaikanlagen senkt die Energiekosten für Haushalte.
+- Wärmenetze können Synergien mit anderen erneuerbaren Energien, wie Wind- und Solarstrom, nutzen.
+- Kommunen können durch kommunale Wärmeplanung gezielt Fördermittel für den Infrastrukturausbau beantragen.
+- Die Kosten für den Umstieg auf erneuerbare Heizsysteme sind langfristig niedriger als die Fortführung fossiler Heizsysteme.
+- Wärmepumpen bieten auch die Möglichkeit der Gebäudekühlung, was mit zunehmenden Hitzewellen wichtiger wird.
+- Der Ausbau erneuerbarer Wärmenetze schafft lokale Arbeitsplätze und stärkt die regionale Wirtschaft.
+- Wasserstoff ist für die Wärmeversorgung nur in spezialisierten Anwendungen sinnvoll, nicht als allgemeine Heizlösung.
+- Energieeffiziente Gebäude sind ein zentraler Bestandteil der Wärmewende und reduzieren den Gesamtenergiebedarf.
+- Kommunen sollten auf sozial gerechte Lösungen achten, um die Wärmewende für alle Bürger bezahlbar zu machen.
+- Die Wärmewende erfordert eine enge Zusammenarbeit zwischen Kommunen, Energieversorgern und Bürgern.
+- Stadtwerke spielen eine entscheidende Rolle bei der Umsetzung der kommunalen Wärmeplanung.
+- Kommunale Wärmeplanung bietet Planungssicherheit für Investoren, Unternehmen und Bürger.
+- Ein geordneter Übergang von fossilen Heizsystemen zu erneuerbaren Technologien vermeidet soziale und wirtschaftliche Belastungen.
+- Wärmenetze mit erneuerbaren Energien ermöglichen eine sichere und bezahlbare Wärmeversorgung für die Zukunft.
+- Kommunale Wärmeplanung ist ein langfristiger Prozess, der schrittweise umgesetzt werden muss, um maximale Effizienz zu gewährleisten.
+- Die Wärmewende ist eine zentrale Aufgabe der Kommunalpolitik und essenziell für das Erreichen der Klimaziele.
+Quelle: Clausen, J., Johannsen, L., Böhler, H., Kranich, K., Huber, M. & Seifert, T. (2022). Kommunale Wärmeplanung. Grundlage einer klimaverantwortlichen Stadtplanung. Policy Paper. Berlin: Scientists for Future.
